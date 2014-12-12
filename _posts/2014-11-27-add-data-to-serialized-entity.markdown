@@ -111,3 +111,5 @@ class MyEntitySerializerSubscriber implements EventSubscriberInterface
 In the end it really is just that simple, but it took me a few hours to find all the information I needed to deal with this very simple task.
 
 I hope this is helpful to someone :).
+
+Update: After writing this post I accidentaly found a [stackoverflow answer](http://stackoverflow.com/a/16675627/2005154) that also explains this very clearly that I had somehow missed. I dislike the use of annotations for the service definition but for the rest it's a good answer. 
